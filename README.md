@@ -1,4 +1,4 @@
-# gpsTrackee line for us to start with.
+# gpsTrackee 
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 
